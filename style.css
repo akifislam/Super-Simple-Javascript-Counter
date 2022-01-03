@@ -1,21 +1,31 @@
 #display{
     text-align: center;
     font-size: 120px;
+    color: aliceblue;
 
 }
 
 h1{
+    color: aliceblue;
     text-align: center;
     padding-top: 100px;
     font-size: 80px;
 }
 
 body{
-    background-image: url(yellowback.jpg)
+    background-image: url(47-478007_beautiful-sea-wallpaper-background-of-sea.jpg)
 
 }
 div {
     position: absolute;
     top: 78%;
-    left: 45%;
+    left: 38%;
+}
+
+#fancy-text{
+    font-size: 20px;
+    color: fuchsia;
+    text-align: center;
+    padding-top: 100px;
+
 }
