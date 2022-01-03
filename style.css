@@ -1,0 +1,21 @@
+#display{
+    text-align: center;
+    font-size: 120px;
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 80px;
+}
+
+body{
+    background-image: url(yellowback.jpg)
+
+}
+div {
+    position: absolute;
+    top: 78%;
+    left: 45%;
+}
